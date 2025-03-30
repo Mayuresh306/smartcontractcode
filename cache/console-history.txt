@@ -1,0 +1,5 @@
+.exit
+hardhat exit
+npx exit
+exit
+npx hardhatArguments
